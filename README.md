@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RamesanPP
 - **Experimenting.. Existing!.**
-- 👀 I’m interested in `coding && development`   *for the time being*
+- 👀 I’m interested in `coding && development`   *for the time being* 😉
