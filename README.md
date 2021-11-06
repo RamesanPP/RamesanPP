@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @RamesanPP
+- 👋 Hi, I’m @RamesanPP (NOT my real name!)
 - **Experimenting.. Existing!.**
 - 👀 I’m interested in `web && app development`   *for the time being* 😉
