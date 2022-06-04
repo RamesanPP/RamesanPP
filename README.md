@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @RamesanPP 
+- 👋 Hi, I’m Ajay Dev aka @RamesanPP 
 - **Experimenting.. Existing!.**
 - 👀 I’m working in `web && app development`   *for the time being* 😉
+- **BACKEND**
