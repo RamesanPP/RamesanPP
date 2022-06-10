@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajay Dev aka @RamesanPP 
 - **Experimenting.. Existing!.** 🖊️
-- 👽 Titles don't interest me. That's why I don't display any.
+- 👽 Titles don't mean anything to me. That's why I don't display any.
 - 🤖 I’m working in `web && app development`   *for the time being* 😉
 - **BACKEND** 🐱‍💻
