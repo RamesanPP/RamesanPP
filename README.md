@@ -1,5 +1,3 @@
-- 👋 Hello World, I’m Ajay Dev aka @RamesanPP 
-- **Experimenting.. Existing!.** 📝
-- Titles don't mean anything to me. That's why I don't display any. 👾
-- 🤖 Currently excited by the AI buzz 😉
-- **BACKEND** 👨🏾‍💻
+👋 Hello World, I’m Ajay Dev aka @RamesanPP 
+Software Engineer | Passionate about clean code, open source, and developer experience.
+Exploring Python, AI, and automation 🤖 | “Code. Learn. Repeat.”
